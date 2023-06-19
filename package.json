@@ -12,6 +12,9 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "node-telegram-bot-api": "^0.61.0",
-    "web3": "^1.9.0"
+    "tronweb": "^5.1.0",
+    "twilio": "^4.11.0",
+    "web3": "^1.9.0",
+    "ws": "^8.13.0"
   }
 }
